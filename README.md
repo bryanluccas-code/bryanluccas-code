@@ -31,6 +31,7 @@
 ##
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/bryanluccas-code/bryanluccas-code/icons/icons8-world-of-warcraft-horde.png" alt="Horda" />
+  <img src="https://github.com/bryanluccas-code/bryanluccas-code/blob/main/icons/icons8-world-of-warcraft-horde-48.png" alt="Horda" />
+  <p><strong>Pela horda!</strong></p>
 </div>
 
