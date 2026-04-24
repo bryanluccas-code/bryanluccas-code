@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou Bryan Lucas! 👋
 
-<!--
-**bryanluccas-code/bryanluccas-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou trabalhando na parte de Hardware, fazendo manutenções de computadores e atendendo à chamados.
+- 🌱 Atualmente, estou estudando: Python, Power BI e SQL.
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Fun fact: Apaixonado por jogos desde os 5 anos de idade. Meu primeiro contato com programação foi aos 7 anos de idade com o Scratch. Hoje, tento me aprofundar completamente na área que sempre estive em contato.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/bryanluccas-code">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanluccas-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanluccas-code&layout-compact&langs_count=16&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+</div>
