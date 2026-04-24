@@ -15,7 +15,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div align="center">
   <img align="center" alt="Bryan-Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Bryan-SQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Bryan-Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
