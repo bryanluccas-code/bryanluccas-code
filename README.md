@@ -18,7 +18,14 @@
   <img align="center" alt="Bryan-SQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Bryan-Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 
-  ![Snake Animation](https://github.com/bryanluccas-code/bryanluccas-code/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+ ##
+ 
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/bryanluccas-code/bryanluccas-code/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ##
