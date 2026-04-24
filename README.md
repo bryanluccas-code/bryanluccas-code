@@ -16,6 +16,7 @@
 ##
 
 <div align="center">
+  <p>Linguagens aprendidas atualmente:</p>
   <img align="center" alt="Bryan-Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Bryan-SQL" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Bryan-Python" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
