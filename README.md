@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou trabalhando na parte de Hardware, fazendo manutenções de computadores e atendendo à chamados.
 - 🌱 Atualmente, estou estudando: Python, Power BI e SQL.
-- 😄 Pronomes: Ele/Dele.
 - ⚡ Fun fact: Apaixonado por jogos desde os 5 anos de idade. Meu primeiro contato com programação foi aos 7 anos de idade com o Scratch. Hoje, tento me aprofundar completamente na área que sempre estive em contato.
 
 ##
